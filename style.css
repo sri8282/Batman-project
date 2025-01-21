@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+.cl{
+    color: aliceblue;
+   
+}
+
+.pos{
+    position: absolute;
+    left: 10%;
+}
+.pos1{
+
+    left: 30;
+}
+
+.pos2{
+    position: absolute;
+    right: 40;
+
+}
